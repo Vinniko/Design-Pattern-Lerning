@@ -22,6 +22,11 @@ namespace Developers_Pattern_Lerning.Creater
 
         #region Main Logic
 
+        /// <summary>
+        /// Create some cookies with title
+        /// </summary>
+        /// <param name="title"></param>
+        /// <returns></returns>
         public abstract Cookie Create(string title);
 
         #endregion
