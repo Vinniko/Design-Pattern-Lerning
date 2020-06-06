@@ -4,3 +4,9 @@ C:\Users\Vinniko\source\repos\Developers Pattern Lerning\Developers Pattern Lern
 C:\Users\Vinniko\source\repos\Developers Pattern Lerning\Developers Pattern Lerning\obj\Debug\Factory Method.csprojAssemblyReference.cache
 C:\Users\Vinniko\source\repos\Developers Pattern Lerning\Developers Pattern Lerning\obj\Debug\Developers Pattern Lerning.exe
 C:\Users\Vinniko\source\repos\Developers Pattern Lerning\Developers Pattern Lerning\obj\Debug\Developers Pattern Lerning.pdb
+D:\Алексей\Универ\Design Patterns\Developers Pattern Lerning\Developers Pattern Lerning\bin\Debug\Developers Pattern Lerning.exe.config
+D:\Алексей\Универ\Design Patterns\Developers Pattern Lerning\Developers Pattern Lerning\bin\Debug\Developers Pattern Lerning.exe
+D:\Алексей\Универ\Design Patterns\Developers Pattern Lerning\Developers Pattern Lerning\bin\Debug\Developers Pattern Lerning.pdb
+D:\Алексей\Универ\Design Patterns\Developers Pattern Lerning\Developers Pattern Lerning\obj\Debug\Developers Pattern Lerning.exe
+D:\Алексей\Универ\Design Patterns\Developers Pattern Lerning\Developers Pattern Lerning\obj\Debug\Developers Pattern Lerning.pdb
+D:\Алексей\Универ\Design Patterns\Developers Pattern Lerning\Developers Pattern Lerning\obj\Debug\Factory Method.csprojAssemblyReference.cache
