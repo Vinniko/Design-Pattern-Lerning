@@ -9,7 +9,15 @@ namespace Abstract_Factory_Method.Creater
 {
     public abstract class RobotFactory
     {
+        /// <summary>
+        /// Create support for robot
+        /// </summary>
+        /// <returns></returns>
         public abstract SupportModel SupportModelCreate();
+        /// <summary>
+        /// Create weapon for robot
+        /// </summary>
+        /// <returns></returns>
         public abstract WeaponModel WeaponModelCreate();
     }
 }

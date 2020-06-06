@@ -12,9 +12,9 @@ namespace Abstract_Factory_Method
     {
         static void Main(string[] args)
         {
-            RobotModel hardWorkerRobot = new RobotModel(new HardWorkerFactory());
-            RobotModel destructorRobot = new RobotModel(new DestructorFactory());
-            RobotModel workerRobot = new RobotModel(new WorkerFactory());
+            RobotModel hardWorkerRobot = new RobotModel(new HardWorkerFactory(), "Тяжёлый рабочий");
+            RobotModel destructorRobot = new RobotModel(new DestructorFactory(), "Уничтожитель");
+            RobotModel workerRobot = new RobotModel(new WorkerFactory(), "Рабочий");
 
             hardWorkerRobot.Run();
             destructorRobot.Work();

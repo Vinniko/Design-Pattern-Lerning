@@ -11,10 +11,11 @@ namespace Abstract_Factory_Method.Models
     {
         #region Constructor
 
-        public RobotModel(RobotFactory robotFactory)
+        public RobotModel(RobotFactory robotFactory, string title)
         {
             Weapon = robotFactory.WeaponModelCreate();
             Support = robotFactory.SupportModelCreate();
+            Title = title;
         }
 
 
@@ -26,11 +27,13 @@ namespace Abstract_Factory_Method.Models
 
         public void Run()
         {
+            Console.Write(Title + ": ");
             Support.Move();
         }
 
         public void Work()
         {
+            Console.Write(Title + ": ");
             Weapon.Hit();
         }
 
@@ -42,6 +45,8 @@ namespace Abstract_Factory_Method.Models
 
         public WeaponModel Weapon { get; set; }
         public SupportModel Support { get; set; }
+
+        public string Title { get; set; } = string.Empty;
 
         #endregion
     }
