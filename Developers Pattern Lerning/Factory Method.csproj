@@ -44,8 +44,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Creater\CookieFactory.cs" />
-    <Compile Include="Creater\TwixCookieFactoryCreater.cs" />
+    <Compile Include="Creater\SnikersCookieFactory.cs" />
+    <Compile Include="Creater\TwixCookieFactory.cs" />
     <Compile Include="Model\Cookie.cs" />
+    <Compile Include="Model\SnikersCookie.cs" />
     <Compile Include="Model\TwixCookie.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

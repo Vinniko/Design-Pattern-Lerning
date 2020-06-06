@@ -12,9 +12,14 @@ namespace Developers_Pattern_Lerning
     {
         static void Main(string[] args)
         {
-            CookieFactory cookieFactory = new TwixCookieFactoryCreater("ООО Twix Right Stick");
+            CookieFactory cookieFactory = new TwixCookieFactory("ООО Twix Right Stick");
             Console.WriteLine(cookieFactory.Title + " starting work.");
             Cookie cookie = cookieFactory.Create("Chocolate Twix");
+            Console.WriteLine("Factory cooking " + cookie.Title);
+            Console.ReadKey();
+            cookieFactory = new SnikersCookieFactory("ООО Snikers");
+            Console.WriteLine(cookieFactory.Title + " starting work.");
+            cookie = cookieFactory.Create("Black Chocolate Snikers");
             Console.WriteLine("Factory cooking " + cookie.Title);
             Console.ReadKey();
         }

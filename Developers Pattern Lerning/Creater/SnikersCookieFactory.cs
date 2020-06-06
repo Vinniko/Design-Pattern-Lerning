@@ -7,14 +7,11 @@ using Developers_Pattern_Lerning.Model;
 
 namespace Developers_Pattern_Lerning.Creater
 {
-    public class TwixCookieFactoryCreater : CookieFactory
+    class SnikersCookieFactory : CookieFactory
     {
         #region Constructors
 
-        public TwixCookieFactoryCreater(string title) : base(title)
-        {
-
-        }
+        public SnikersCookieFactory(string title) : base(title) { }
 
         #endregion
 
@@ -24,17 +21,10 @@ namespace Developers_Pattern_Lerning.Creater
 
         public override Cookie Create(string title)
         {
-            return new TwixCookie(title);
+            return new SnikersCookie(title);
         }
 
         #endregion
 
-
-
-        #region Fields
-
-        
-
-        #endregion
     }
 }
