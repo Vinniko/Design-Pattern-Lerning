@@ -14,6 +14,8 @@ namespace Singleton_Method
         {
             var singleton = Singleton.GetInstance();
             singleton.TextWrite();
+            var lazySingleton = LazySingleton.GetInstance();
+            lazySingleton.TextWrite();
         }
     }
 }
