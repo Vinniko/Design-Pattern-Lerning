@@ -10,3 +10,4 @@ D:\Алексей\Универ\Design Patterns\Developers Pattern Lerning\Develo
 D:\Алексей\Универ\Design Patterns\Developers Pattern Lerning\Developers Pattern Lerning\obj\Debug\Developers Pattern Lerning.exe
 D:\Алексей\Универ\Design Patterns\Developers Pattern Lerning\Developers Pattern Lerning\obj\Debug\Developers Pattern Lerning.pdb
 D:\Алексей\Универ\Design Patterns\Developers Pattern Lerning\Developers Pattern Lerning\obj\Debug\Factory Method.csprojAssemblyReference.cache
+D:\Алексей\Универ\Design Patterns\Developers Pattern Lerning\Developers Pattern Lerning\obj\Debug\Factory Method.csproj.CoreCompileInputs.cache
