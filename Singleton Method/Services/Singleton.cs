@@ -8,7 +8,7 @@ namespace Singleton_Method.Services
 {
     class Singleton
     {
-        public static readonly Singleton instance = new Singleton();
+        private static readonly Singleton instance = new Singleton();
         private Singleton()
         {
 
