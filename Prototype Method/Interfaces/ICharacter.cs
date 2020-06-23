@@ -8,5 +8,7 @@ namespace Prototype_Method.Interfaces
 {
     interface ICharacter
     {
+        void Move();
+        void Hit();
     }
 }
