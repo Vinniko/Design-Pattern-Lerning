@@ -1,0 +1,7 @@
+D:\Алексей\Универ\Design Patterns\Developers Pattern Lerning\Strategy Method\bin\Debug\Strategy Method.exe.config
+D:\Алексей\Универ\Design Patterns\Developers Pattern Lerning\Strategy Method\bin\Debug\Strategy Method.exe
+D:\Алексей\Универ\Design Patterns\Developers Pattern Lerning\Strategy Method\bin\Debug\Strategy Method.pdb
+D:\Алексей\Универ\Design Patterns\Developers Pattern Lerning\Strategy Method\obj\Debug\Strategy Method.csprojAssemblyReference.cache
+D:\Алексей\Универ\Design Patterns\Developers Pattern Lerning\Strategy Method\obj\Debug\Strategy Method.csproj.CoreCompileInputs.cache
+D:\Алексей\Универ\Design Patterns\Developers Pattern Lerning\Strategy Method\obj\Debug\Strategy Method.exe
+D:\Алексей\Универ\Design Patterns\Developers Pattern Lerning\Strategy Method\obj\Debug\Strategy Method.pdb
