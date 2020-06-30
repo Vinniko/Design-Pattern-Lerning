@@ -15,7 +15,7 @@ namespace Builder_Method.Models
             weaponBuilder.SetBlade();
             weaponBuilder.SetGuard();
             weaponBuilder.SetDetail();
-            return weaponBuilder.weapon;
+            return weaponBuilder._weapon;
         }
     }
 }

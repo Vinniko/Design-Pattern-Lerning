@@ -8,6 +8,10 @@ namespace Builder_Method.Models
 {
     class Blade
     {
+        public Blade(string material)
+        {
+            Material = material;
+        }
         public string Material { get; set; }
     }
 }

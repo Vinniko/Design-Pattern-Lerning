@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Builder_Method.Models
 {
-    abstract class Weapon
+    class Weapon
     {
         public Blade blade { get; set; }
 

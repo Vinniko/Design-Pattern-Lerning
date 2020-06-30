@@ -8,6 +8,10 @@ namespace Builder_Method.Models
 {
     class Detail
     {
+        public Detail(string title)
+        {
+            Title = title;
+        }
         public string Title { get; set; }
     }
 }
