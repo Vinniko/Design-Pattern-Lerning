@@ -1,0 +1,7 @@
+D:\Алексей\Универ\Design Patterns\Developers Pattern Lerning\Builder Method\bin\Debug\Builder Method.exe.config
+D:\Алексей\Универ\Design Patterns\Developers Pattern Lerning\Builder Method\bin\Debug\Builder Method.exe
+D:\Алексей\Универ\Design Patterns\Developers Pattern Lerning\Builder Method\bin\Debug\Builder Method.pdb
+D:\Алексей\Универ\Design Patterns\Developers Pattern Lerning\Builder Method\obj\Debug\Builder Method.csprojAssemblyReference.cache
+D:\Алексей\Универ\Design Patterns\Developers Pattern Lerning\Builder Method\obj\Debug\Builder Method.csproj.CoreCompileInputs.cache
+D:\Алексей\Универ\Design Patterns\Developers Pattern Lerning\Builder Method\obj\Debug\Builder Method.exe
+D:\Алексей\Универ\Design Patterns\Developers Pattern Lerning\Builder Method\obj\Debug\Builder Method.pdb
