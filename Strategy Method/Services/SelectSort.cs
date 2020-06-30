@@ -15,7 +15,7 @@ namespace Strategy_Method.Services
         public List<int> Sort(List<int> collection)
         {
             int left = 0;
-            int right = collection.Count;
+            int right = collection.Count - 1;
             var tmpCollection = collection;
             for (var i = left; i < right; i++)
             {
