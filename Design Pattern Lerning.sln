@@ -15,7 +15,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder Method", "Builder M
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy Method", "Strategy Method\Strategy Method.csproj", "{FD915FCC-EE33-4D63-A5E6-F93D9C796443}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer Method", "Observer Method\Observer Method.csproj", "{C187BEF9-DE0F-4314-B1BE-C7E44629E2DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Observer Method", "Observer Method\Observer Method.csproj", "{C187BEF9-DE0F-4314-B1BE-C7E44629E2DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Command Method", "Command Method\Command Method.csproj", "{795BE25E-AC87-44BD-94F8-E2FA926B71CD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{C187BEF9-DE0F-4314-B1BE-C7E44629E2DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C187BEF9-DE0F-4314-B1BE-C7E44629E2DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C187BEF9-DE0F-4314-B1BE-C7E44629E2DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{795BE25E-AC87-44BD-94F8-E2FA926B71CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{795BE25E-AC87-44BD-94F8-E2FA926B71CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{795BE25E-AC87-44BD-94F8-E2FA926B71CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{795BE25E-AC87-44BD-94F8-E2FA926B71CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
