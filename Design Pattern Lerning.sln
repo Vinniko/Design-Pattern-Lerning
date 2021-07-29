@@ -25,6 +25,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Iterator Method", "Iterator
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "State Method", "State Method\State Method.csproj", "{96D9FFA8-5A63-4F6A-A0AF-DC05FC40AD57}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chain of responsibility Method", "Chain of responsibility Method\Chain of responsibility Method.csproj", "{5BF88B35-B205-49D3-87E5-D5B7C04E0A90}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{96D9FFA8-5A63-4F6A-A0AF-DC05FC40AD57}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{96D9FFA8-5A63-4F6A-A0AF-DC05FC40AD57}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{96D9FFA8-5A63-4F6A-A0AF-DC05FC40AD57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BF88B35-B205-49D3-87E5-D5B7C04E0A90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BF88B35-B205-49D3-87E5-D5B7C04E0A90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BF88B35-B205-49D3-87E5-D5B7C04E0A90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BF88B35-B205-49D3-87E5-D5B7C04E0A90}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
