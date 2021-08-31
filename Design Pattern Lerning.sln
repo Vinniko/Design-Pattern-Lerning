@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chain of responsibility Met
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interpreter Method", "Interpreter Method\Interpreter Method.csproj", "{806865F0-DF54-4D2C-8B79-96D5AE6A8ECC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediator Method", "Mediator Method\Mediator Method.csproj", "{AF2E9827-0FBA-4BE6-8896-F6AE0BB656B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{806865F0-DF54-4D2C-8B79-96D5AE6A8ECC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{806865F0-DF54-4D2C-8B79-96D5AE6A8ECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{806865F0-DF54-4D2C-8B79-96D5AE6A8ECC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF2E9827-0FBA-4BE6-8896-F6AE0BB656B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF2E9827-0FBA-4BE6-8896-F6AE0BB656B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF2E9827-0FBA-4BE6-8896-F6AE0BB656B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF2E9827-0FBA-4BE6-8896-F6AE0BB656B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
